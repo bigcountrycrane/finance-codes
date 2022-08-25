@@ -1,1 +1,67 @@
-
+{
+    "assets": [
+      {
+        "ticker": "AAPL",
+        "cusip": "037833100",
+        "isin": "US0378331005",
+        "sedol": "2046251"
+      },
+      {
+        "ticker": "ADBE",
+        "cusip": "00724F101",
+        "isin": "US00724F1012",
+        "sedol": "2008154"
+      },
+      {
+        "ticker": "BYND",
+        "cusip": "08862E109",
+        "isin": "US08862E1091",
+        "sedol": "BJ1FDK7"
+      },
+      {
+        "ticker": "TSLA",
+        "cusip": "88160R101",
+        "isin": "US88160R1014",
+        "sedol": "B616C79"
+      },
+      {
+        "ticker": "CHWY",
+        "cusip": "16679L109",
+        "isin": "US16679L1098",
+        "sedol": "BJLFHW7"
+      },
+      {
+        "ticker": "HD",
+        "cusip": "437076102",
+        "isin": "US4370761029",
+        "sedol": "2434209"
+      },
+      {
+        "ticker": "JNJ",
+        "cusip": "478160104",
+        "isin": "US4781601046",
+        "sedol": "2475833"
+      },
+      {
+        "ticker": "MCD",
+        "cusip": "580135101",
+        "isin": "US5801351017",
+        "sedol": "2550707"
+      },
+      {
+        "ticker": "PFE",
+        "cusip": "717081103",
+        "isin": "US7170811035",
+        "sedol": "2684703"
+      },
+      {
+        "ticker": "SBUX",
+        "cusip": "855244109",
+        "isin": "US8552441094",
+        "sedol": "2842255"
+      }
+    ],
+    "profile": {
+      "name": "bigcountrycrane"
+    }
+  }
